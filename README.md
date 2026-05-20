@@ -17,7 +17,7 @@ Backend-focused software engineer specializing in Java, Spring Boot, and cloud-n
 
 ## 🚀 Featured projects
 
-### 🗡 [BalisongFlippingHub](https://github.com/BalisongFlippingHub)
+### 🗡 [BalisongFlippingCenter](https://github.com/BalisongFlippingCenter)
 Full-stack community platform for balisong knife enthusiasts.  
 Spring Boot REST API + React/TypeScript frontend with JWT auth, media uploads, Dockerized deployment, and CI/CD via GitHub Actions.  
 `Java` `Spring Boot` `React` `TypeScript` `Docker` `GitHub Actions`
