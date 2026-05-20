@@ -34,7 +34,9 @@ Collaborative quiz application built as a team project at Lewis University.
 
 ## 📊 GitHub stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzenisekj&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Commits](https://img.shields.io/badge/Commits%20this%20month-20-brightgreen?style=flat-square)
+![Repos](https://img.shields.io/badge/Public%20repos-15-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-primary%20language-orange?style=flat-square&logo=openjdk)
 
 ---
 
