@@ -2,7 +2,7 @@
 
 Backend-focused software engineer specializing in Java, Spring Boot, and cloud-native development. Recent CS graduate passionate about building scalable APIs and distributed systems.
 
-🌐 [tylerzeniseks.com](https://www.tylerzeniseks.com)  •  📫 Open to backend engineering roles
+🌐 [tylerzeniseks.com](https://www.tylerzeniseks.com)  • 🌐 https://www.linkedin.com/in/tyler-zenisek/ • 📫 Open to backend engineering roles
 
 ---
 
