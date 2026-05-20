@@ -34,7 +34,7 @@ Collaborative quiz application built as a team project at Lewis University.
 
 ## 📊 GitHub stats
 
-![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzenisekj&show_icons=true&hide_border=true&count_private=true&theme=default)
+![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzenisekj&show_icons=true&hide_border=true&theme=default&count_private=true)
 
 ---
 
